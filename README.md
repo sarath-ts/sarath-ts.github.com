@@ -1,2 +1,2 @@
-# sarath-ts.github.com
+# sarath-ts.github.io
 Personal Website
